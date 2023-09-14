@@ -5,5 +5,10 @@
 
 ## Прошу обратить внимание!
 Ссылка плейлист ютуба с выполнением лабораторных работ по дисциплине 1 курса `Операционные системы`: https://www.youtube.com/playlist?list=PLG4118ejIOhFDOry9g2JSAZkP9KyBUWYn
+
 Ссылка плейлист ютуба с выполнением лабораторных работ по дисциплине 3 курса `Математическое моделирование`: https://www.youtube.com/playlist?list=PLG4118ejIOhF78Tu7cTi5ah9OaRiGLPNv
+
 Ссылка плейлист ютуба с выполнением лабораторных работ по дисциплине 3 курса `Моделирование информационных процессов`: https://www.youtube.com/playlist?list=PLG4118ejIOhEYuJjYXu11BMvzOkZFQJ7_
+
+
+Ссылка плейлист ютуба с выполнением лабораторных работ по дисциплине 4 курса `Информационная безопасность`: https://youtube.com/playlist?list=PLG4118ejIOhEQJxelKmAQnHHbV-8iUBrH&si=x4xd0tRCFfYj9sv-
