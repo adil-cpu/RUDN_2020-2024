@@ -4,11 +4,12 @@
 К примеру, домашние задания по дициплине `Компьютерная алгебра` начинаются с 6, так как первые 5 домашних заданий были сделаны во время обучения на 1 курсе.
 
 ## Прошу обратить внимание!
-Ссылка плейлист ютуба с выполнением лабораторных работ по дисциплине 1 курса `Операционные системы`: https://www.youtube.com/playlist?list=PLG4118ejIOhFDOry9g2JSAZkP9KyBUWYn
+Ссылка на плейлист ютуба с выполнением лабораторных работ по дисциплине 1 курса `Операционные системы`: https://www.youtube.com/playlist?list=PLG4118ejIOhFDOry9g2JSAZkP9KyBUWYn
 
-Ссылка плейлист ютуба с выполнением лабораторных работ по дисциплине 3 курса `Математическое моделирование`: https://www.youtube.com/playlist?list=PLG4118ejIOhF78Tu7cTi5ah9OaRiGLPNv
+Ссылка на плейлист ютуба с выполнением лабораторных работ по дисциплине 3 курса `Математическое моделирование`: https://www.youtube.com/playlist?list=PLG4118ejIOhF78Tu7cTi5ah9OaRiGLPNv
 
-Ссылка плейлист ютуба с выполнением лабораторных работ по дисциплине 3 курса `Моделирование информационных процессов`: https://www.youtube.com/playlist?list=PLG4118ejIOhEYuJjYXu11BMvzOkZFQJ7_
+Ссылка на плейлист ютуба с выполнением лабораторных работ по дисциплине 3 курса `Моделирование информационных процессов`: https://www.youtube.com/playlist?list=PLG4118ejIOhEYuJjYXu11BMvzOkZFQJ7_
 
+Ссылка на плейлист ютуба с выполнением лабораторных работ по дисциплине 4 курса `Информационная безопасность`: https://youtube.com/playlist?list=PLG4118ejIOhEQJxelKmAQnHHbV-8iUBrH&si=x4xd0tRCFfYj9sv-
 
-Ссылка плейлист ютуба с выполнением лабораторных работ по дисциплине 4 курса `Информационная безопасность`: https://youtube.com/playlist?list=PLG4118ejIOhEQJxelKmAQnHHbV-8iUBrH&si=x4xd0tRCFfYj9sv-
+Ссылка на плейлист ютуба с выполнением лабораторных работ по дисциплине 4 курса `Компьютерный практикум по статистическому анализу данных`: https://www.youtube.com/playlist?list=PLG4118ejIOhEgoQ1DcZeURGG8q_3T-1Ci
